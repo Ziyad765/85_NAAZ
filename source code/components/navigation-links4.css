@@ -1,0 +1,26 @@
+.navigation-links4-nav {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.navigation-links4-text1 {
+  margin-left: var(--dl-space-space-twounits);
+}
+.navigation-links4-text2 {
+  margin-left: var(--dl-space-space-twounits);
+}
+.navigation-links4-text3 {
+  margin-left: var(--dl-space-space-twounits);
+}
+.navigation-links4-text4 {
+  margin-left: var(--dl-space-space-twounits);
+}
+
+
+
+
+
+
+
+
