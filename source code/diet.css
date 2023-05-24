@@ -1,0 +1,92 @@
+.diet-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-image: linear-gradient(113.8deg, rgba(62,147,252,0.57) 12.9%, rgba(239,183,192,0.44) 91.2%);
+}
+.diet-hero {
+  color: var(--dl-color-gray-black);
+  width: 100%;
+  display: flex;
+  position: relative;
+  min-height: 80vh;
+  align-items: center;
+  padding-top: var(--dl-space-space-threeunits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  flex-direction: column;
+  padding-bottom: 40px;
+  background-size: cover;
+  justify-content: center;
+  background-image: linear-gradient(113.8deg, rgba(62,147,252,0.57) 12.9%, rgba(239,183,192,0.44) 91.2%),url('https://images.unsplash.com/photo-1493770348161-369560ae357d?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDQwfHxkaWV0fGVufDB8fHx8MTY4NDU4Nzg0MHww&ixlib=rb-4.0.3&w=1500');
+}
+.diet-container1 {
+  left: 48px;
+  bottom: 396px;
+  display: flex;
+  position: absolute;
+  max-width: var(--dl-size-size-xxlarge);
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.diet-text {
+  top: -180px;
+  left: 6px;
+  position: absolute;
+  font-size: 3rem;
+  max-width: 25rem;
+}
+.diet-text1 {
+  top: -55px;
+  left: 6px;
+  width: auto;
+  position: absolute;
+  font-size: 1.15rem;
+  max-width: 1700px;
+  text-transform: capitalize;
+}
+.diet-navlink {
+  left: 5px;
+  color: var(--dl-color-gray-white);
+  bottom: -171px;
+  position: absolute;
+  font-style: normal;
+  text-align: center;
+  transition: 0.3s;
+  font-weight: 400;
+  padding-top: var(--dl-space-space-unit);
+  border-width: 0px;
+  padding-left: var(--dl-space-space-twounits);
+  border-radius: var(--dl-radius-radius-radius4);
+  padding-right: var(--dl-space-space-twounits);
+  padding-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+  background-color: var(--dl-color-gray-black);
+}
+.diet-navlink:hover {
+  transform: scale(1.02);
+}
+.diet-text2 {
+  left: 44px;
+  width: 400px;
+  bottom: 84px;
+  position: absolute;
+}
+.diet-navlink1 {
+  display: contents;
+}
+.diet-image {
+  top: 23px;
+  left: 36px;
+  width: auto;
+  height: var(--dl-size-size-medium);
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}

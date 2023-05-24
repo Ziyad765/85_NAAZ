@@ -1,0 +1,160 @@
+.postpartum-essentials-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.postpartum-essentials-hero {
+  width: 100%;
+  height: 1137px;
+  display: flex;
+  padding: var(--dl-space-space-threeunits);
+  position: relative;
+  max-width: var(--dl-size-size-maxwidth);
+  min-height: 80vh;
+  align-items: flex-end;
+  flex-direction: row;
+  justify-content: center;
+}
+.postpartum-essentials-container1 {
+  top: 9px;
+  left: 312px;
+  display: flex;
+  position: absolute;
+  padding-right: var(--dl-space-space-threeunits);
+  flex-direction: column;
+}
+.postpartum-essentials-text {
+  top: 54px;
+  left: -85px;
+  width: 773px;
+  margin: auto;
+  position: absolute;
+  font-size: 3rem;
+  max-width: var(--dl-size-size-maxwidth);
+  text-align: center;
+}
+.postpartum-essentials-btn-group {
+  top: 0px;
+  left: 0px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: row;
+}
+.postpartum-essentials-link {
+  display: contents;
+}
+.postpartum-essentials-image {
+  left: 127px;
+  width: 200px;
+  bottom: 40px;
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}
+.postpartum-essentials-link1 {
+  display: contents;
+}
+.postpartum-essentials-image1 {
+  left: 465px;
+  width: 200px;
+  bottom: 64px;
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}
+.postpartum-essentials-link2 {
+  display: contents;
+}
+.postpartum-essentials-image2 {
+  left: 839px;
+  width: 200px;
+  bottom: 75px;
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}
+.postpartum-essentials-link3 {
+  display: contents;
+}
+.postpartum-essentials-image3 {
+  top: 237px;
+  left: 462px;
+  width: 200px;
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}
+.postpartum-essentials-link4 {
+  display: contents;
+}
+.postpartum-essentials-image4 {
+  top: 244px;
+  left: 827px;
+  width: 200px;
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}
+.postpartum-essentials-link5 {
+  display: contents;
+}
+.postpartum-essentials-image5 {
+  left: 124px;
+  width: 200px;
+  bottom: 512px;
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}
+.postpartum-essentials-navlink {
+  display: contents;
+}
+.postpartum-essentials-image6 {
+  top: 52px;
+  left: 93px;
+  width: auto;
+  height: var(--dl-size-size-medium);
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}
+@media(max-width: 991px) {
+  .postpartum-essentials-hero {
+    flex-direction: column;
+  }
+  .postpartum-essentials-container1 {
+    align-items: center;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-twounits);
+    padding-right: 0px;
+  }
+  .postpartum-essentials-text {
+    text-align: center;
+  }
+}
+@media(max-width: 767px) {
+  .postpartum-essentials-hero {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+}
+@media(max-width: 479px) {
+  .postpartum-essentials-hero {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .postpartum-essentials-container1 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .postpartum-essentials-btn-group {
+    flex-direction: column;
+  }
+}

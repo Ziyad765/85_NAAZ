@@ -1,0 +1,673 @@
+.tipsandtricks-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.tipsandtricks-hero {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-threeunits);
+  position: relative;
+  max-width: var(--dl-size-size-maxwidth);
+  min-height: 80vh;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.tipsandtricks-container1 {
+  top: 165px;
+  left: 104px;
+  display: flex;
+  position: absolute;
+  padding-right: var(--dl-space-space-threeunits);
+  flex-direction: column;
+}
+.tipsandtricks-text {
+  top: -40px;
+  left: -3px;
+  width: 747px;
+  position: absolute;
+  font-size: 3rem;
+  max-width: var(--dl-size-size-maxwidth);
+}
+.tipsandtricks-text001 {
+  top: 109px;
+  left: -4px;
+  width: 700px;
+  position: absolute;
+}
+.tipsandtricks-text002 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text003 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text004 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text005 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text006 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text007 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text008 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text009 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text010 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text011 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text012 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text013 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text014 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text015 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text016 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text017 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text018 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text019 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text020 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text021 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text022 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text023 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text024 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text025 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text026 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text027 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text028 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text029 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text030 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text031 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text032 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text033 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text034 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text035 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text036 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text037 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text038 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text039 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text040 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text041 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text042 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text043 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text044 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text045 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text046 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text047 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text048 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text049 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text050 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text051 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text052 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text053 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text054 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text055 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text056 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text057 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text058 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text059 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text060 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text061 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text062 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text063 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text064 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text065 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text066 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text067 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text068 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text069 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text070 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text071 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text072 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text073 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text074 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text075 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text076 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text077 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text078 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text079 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text080 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text081 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text082 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text083 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text084 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text085 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text086 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text087 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text088 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text089 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text090 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text091 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text092 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text093 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text094 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text095 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text096 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text097 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text098 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text099 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text100 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text101 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text102 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text103 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text104 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text105 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text106 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text107 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text108 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text109 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text110 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text111 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text112 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text113 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text114 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text115 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text116 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text117 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text118 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text119 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text120 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text121 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text122 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text123 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text124 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text125 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text126 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text127 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text128 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text129 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text130 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text131 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text132 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text133 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text134 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text135 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text136 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text137 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text138 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text139 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text140 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-text141 {
+  font-style: normal;
+  font-weight: 500;
+}
+.tipsandtricks-btn-group {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.tipsandtricks-image {
+  top: 194px;
+  right: 92px;
+  width: 268px;
+  height: 461px;
+  position: absolute;
+  object-fit: cover;
+}
+.tipsandtricks-navlink {
+  display: contents;
+}
+.tipsandtricks-image1 {
+  top: 7px;
+  left: 25px;
+  width: auto;
+  height: var(--dl-size-size-medium);
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}
+@media(max-width: 991px) {
+  .tipsandtricks-hero {
+    flex-direction: column;
+  }
+  .tipsandtricks-container1 {
+    align-items: center;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-twounits);
+    padding-right: 0px;
+  }
+  .tipsandtricks-text {
+    text-align: center;
+  }
+  .tipsandtricks-text001 {
+    text-align: center;
+    padding-left: var(--dl-space-space-threeunits);
+    padding-right: var(--dl-space-space-threeunits);
+  }
+}
+@media(max-width: 767px) {
+  .tipsandtricks-hero {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .tipsandtricks-text001 {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .tipsandtricks-image {
+    width: 80%;
+  }
+}
+@media(max-width: 479px) {
+  .tipsandtricks-hero {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .tipsandtricks-container1 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .tipsandtricks-btn-group {
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,395 @@
+.dietplan-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-image: linear-gradient(113.8deg, rgba(62,147,252,0.57) 12.9%, rgba(239,183,192,0.44) 91.2%);
+}
+.dietplan-hero {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-threeunits);
+  max-width: var(--dl-size-size-maxwidth);
+  min-height: 80vh;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.dietplan-container1 {
+  width: 676px;
+  height: 610px;
+  display: flex;
+  position: relative;
+  margin-right: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  flex-direction: column;
+}
+.dietplan-text {
+  top: 3px;
+  left: -1px;
+  width: 687px;
+  position: absolute;
+  font-size: 3rem;
+  max-width: var(--dl-size-size-maxwidth);
+}
+.dietplan-btn-group {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.dietplan-text001 {
+  top: 88px;
+  left: 10px;
+  position: absolute;
+  font-style: normal;
+  font-family: Kanit;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.dietplan-text002 {
+  top: 137px;
+  left: 13px;
+  width: 80%;
+  position: absolute;
+  font-weight: 700;
+}
+.dietplan-text003 {
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.dietplan-text004 {
+  font-weight: 700;
+}
+.dietplan-text005 {
+  font-weight: 700;
+}
+.dietplan-text007 {
+  font-weight: 700;
+}
+.dietplan-text008 {
+  font-weight: 700;
+}
+.dietplan-text010 {
+  font-weight: 700;
+}
+.dietplan-text011 {
+  font-weight: 700;
+}
+.dietplan-text013 {
+  font-weight: 700;
+}
+.dietplan-text014 {
+  font-weight: 700;
+}
+.dietplan-text016 {
+  font-weight: 700;
+}
+.dietplan-text017 {
+  font-weight: 700;
+}
+.dietplan-text019 {
+  font-weight: 700;
+}
+.dietplan-text020 {
+  font-weight: 700;
+}
+.dietplan-text021 {
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.dietplan-text022 {
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.dietplan-text023 {
+  font-weight: 700;
+}
+.dietplan-text025 {
+  font-weight: 700;
+}
+.dietplan-text026 {
+  font-weight: 700;
+}
+.dietplan-text028 {
+  font-weight: 700;
+}
+.dietplan-text029 {
+  font-weight: 700;
+}
+.dietplan-text031 {
+  font-weight: 700;
+}
+.dietplan-text032 {
+  font-weight: 700;
+}
+.dietplan-text034 {
+  font-weight: 700;
+}
+.dietplan-text035 {
+  font-weight: 700;
+}
+.dietplan-text037 {
+  font-weight: 700;
+}
+.dietplan-text038 {
+  font-weight: 700;
+}
+.dietplan-text039 {
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.dietplan-text040 {
+  font-weight: 700;
+}
+.dietplan-text041 {
+  font-weight: 700;
+}
+.dietplan-text043 {
+  font-weight: 700;
+}
+.dietplan-text044 {
+  font-weight: 700;
+}
+.dietplan-text046 {
+  font-weight: 700;
+}
+.dietplan-text047 {
+  font-weight: 700;
+}
+.dietplan-text049 {
+  font-weight: 700;
+}
+.dietplan-text050 {
+  font-weight: 700;
+}
+.dietplan-text052 {
+  font-weight: 700;
+}
+.dietplan-text053 {
+  font-weight: 700;
+}
+.dietplan-text055 {
+  font-weight: 700;
+}
+.dietplan-text056 {
+  font-weight: 700;
+}
+.dietplan-text057 {
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.dietplan-text058 {
+  font-weight: 700;
+}
+.dietplan-text059 {
+  font-weight: 700;
+}
+.dietplan-text061 {
+  font-weight: 700;
+}
+.dietplan-text062 {
+  font-weight: 700;
+}
+.dietplan-text064 {
+  font-weight: 700;
+}
+.dietplan-text065 {
+  font-weight: 700;
+}
+.dietplan-text067 {
+  font-weight: 700;
+}
+.dietplan-text068 {
+  font-weight: 700;
+}
+.dietplan-text070 {
+  font-weight: 700;
+}
+.dietplan-text071 {
+  font-weight: 700;
+}
+.dietplan-text073 {
+  font-weight: 700;
+}
+.dietplan-text074 {
+  font-weight: 700;
+}
+.dietplan-text075 {
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.dietplan-text076 {
+  font-weight: 700;
+}
+.dietplan-text077 {
+  font-weight: 700;
+}
+.dietplan-text079 {
+  font-weight: 700;
+}
+.dietplan-text080 {
+  font-weight: 700;
+}
+.dietplan-text082 {
+  font-weight: 700;
+}
+.dietplan-text083 {
+  font-weight: 700;
+}
+.dietplan-text085 {
+  font-weight: 700;
+}
+.dietplan-text086 {
+  font-weight: 700;
+}
+.dietplan-text088 {
+  font-weight: 700;
+}
+.dietplan-text089 {
+  font-weight: 700;
+}
+.dietplan-text091 {
+  font-weight: 700;
+}
+.dietplan-text092 {
+  font-weight: 700;
+}
+.dietplan-text093 {
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.dietplan-text094 {
+  font-weight: 700;
+}
+.dietplan-text095 {
+  font-weight: 700;
+}
+.dietplan-text097 {
+  font-weight: 700;
+}
+.dietplan-text098 {
+  font-weight: 700;
+}
+.dietplan-text100 {
+  font-weight: 700;
+}
+.dietplan-text101 {
+  font-weight: 700;
+}
+.dietplan-text103 {
+  font-weight: 700;
+}
+.dietplan-text104 {
+  font-weight: 700;
+}
+.dietplan-text106 {
+  font-weight: 700;
+}
+.dietplan-text107 {
+  font-weight: 700;
+}
+.dietplan-text109 {
+  font-weight: 700;
+}
+.dietplan-text110 {
+  font-weight: 700;
+}
+.dietplan-text111 {
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.dietplan-text112 {
+  font-weight: 700;
+}
+.dietplan-text113 {
+  font-weight: 700;
+}
+.dietplan-text115 {
+  font-weight: 700;
+}
+.dietplan-text116 {
+  font-weight: 700;
+}
+.dietplan-text118 {
+  font-weight: 700;
+}
+.dietplan-text119 {
+  font-weight: 700;
+}
+.dietplan-text121 {
+  font-weight: 700;
+}
+.dietplan-text122 {
+  font-weight: 700;
+}
+.dietplan-text124 {
+  font-weight: 700;
+}
+.dietplan-text125 {
+  font-weight: 700;
+}
+.dietplan-image {
+  width: 400px;
+  object-fit: cover;
+}
+.dietplan-navlink {
+  display: contents;
+}
+.dietplan-image1 {
+  top: -1px;
+  left: 13px;
+  width: auto;
+  height: 110px;
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}
+@media(max-width: 991px) {
+  .dietplan-hero {
+    flex-direction: column;
+  }
+  .dietplan-container1 {
+    align-items: center;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-twounits);
+    padding-right: 0px;
+  }
+  .dietplan-text {
+    text-align: center;
+  }
+  .dietplan-text002 {
+    text-align: center;
+    padding-left: var(--dl-space-space-threeunits);
+    padding-right: var(--dl-space-space-threeunits);
+  }
+}
+@media(max-width: 767px) {
+  .dietplan-hero {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .dietplan-text002 {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .dietplan-image {
+    width: 80%;
+  }
+}
+@media(max-width: 479px) {
+  .dietplan-hero {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .dietplan-container1 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .dietplan-btn-group {
+    flex-direction: column;
+  }
+}
